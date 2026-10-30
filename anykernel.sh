@@ -40,11 +40,10 @@ PATCH_VBMETA_FLAG=auto;
 dump_boot;
 
 ui_print " ";
-ui_print "*************************************************";
-ui_print "*              SouthWest-NG Kernel              *";
-ui_print "*                                               *";
-ui_print "*   Powered by backslashxx | For Redmi Note 7   *";
-ui_print "*************************************************";
+ui_print "************************************************";
+ui_print "*              SouthWest-NG Kernel             *";
+ui_print "*               For Redmi Note 7               *";
+ui_print "************************************************";
 ui_print " ";
 
 write_boot;
